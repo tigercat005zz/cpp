@@ -1,3 +1,1 @@
- base() {
-    cout << "-----";
-}
+onth_inpu
